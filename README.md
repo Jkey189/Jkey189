@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jkey189
 - 👀 I’m interested in programming by C++
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ... I’m not lokking to collaborate(. I’m only in 9th class (lol :) )
+- 💞️ I’m looking to collaborate on ... I’m not lokking to collaborate(. I’m only in 10th class (lol :) )
 - 📫 How to reach me olegator5496@gmail.com
 
 <!---
