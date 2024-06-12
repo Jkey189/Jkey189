@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Jkey189
-- 👀 I’m interested in programming by C++
+- 👋 Hi, I’m Oleg
 - 🌱 I’m currently learning C++
 
 <!---
