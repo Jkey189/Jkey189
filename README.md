@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oleg
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ (and another languages too :) )
 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,clion,pycharm,figma)](https://skillicons.dev)
