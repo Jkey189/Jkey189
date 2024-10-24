@@ -2,11 +2,11 @@
 - 🌱 I’m currently learning C++ (and another languages too :) )
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,clion,pycharm,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,visualstudio,figma)](https://skillicons.dev)
 -
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,qt)](https://skillicons.dev)
 -
-[![My Skills](https://skillicons.dev/icons?i=linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
 -
 
 <!---
