@@ -1,11 +1,16 @@
 ### Hi there 👋, my name is Oleg
 #### I'm a beginner developer
 
-![](https://komarev.com/ghpvc/?username=Jkey189&color=green)
+![](https://komarev.com/ghpvc/?username=Jkey189&color=blue)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="500"/><img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAd/piza-ninjas-pizzaninjas.gif" width="444"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/iqjHRWHRBIgAAAAd/pjr.gif" width="500"/>
+</div>
+
 
 ---
 
@@ -29,6 +34,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jkey189&theme=nord)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jkey189&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAd/coding.gif" width="500"/>
+</div>
 
 
 <!---
