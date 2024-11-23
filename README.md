@@ -3,11 +3,15 @@
 
 ![](https://komarev.com/ghpvc/?username=Jkey189&color=green)
 
----
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Jkey189/Jkey189/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 
 [![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,visualstudio,figma)](https://skillicons.dev)
