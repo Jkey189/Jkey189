@@ -41,6 +41,11 @@
   <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAd/coding.gif" width="500"/>
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=nord&height=100&section=footer"/>
+</p>
+
+<!-- gradient --->
 
 <!---
 Jkey189/Jkey189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
