@@ -5,15 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Jkey189&color=blue)
 
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="225"/><img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAd/piza-ninjas-pizzaninjas.gif" width="200"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/iqjHRWHRBIgAAAAd/pjr.gif" width="500"/>
-</div>
-
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Jkey189/Jkey189/output/github-contribution-grid-snake-dark.svg)
@@ -39,9 +30,16 @@
 
 ---
 
+And some gifs 😊
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAd/coding.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="225"/><img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAd/piza-ninjas-pizzaninjas.gif" width="200"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/iqjHRWHRBIgAAAAd/pjr.gif" width="500"/><img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAd/coding.gif" width="500"/>
+</div>
+
+---
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=nord&height=100&section=footer"/>
