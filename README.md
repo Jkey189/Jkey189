@@ -30,7 +30,7 @@
 
 ---
 
-And some gifs 😊
+And some gifs ☺️
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="225"/><img src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAd/piza-ninjas-pizzaninjas.gif" width="200"/>
 </div>
