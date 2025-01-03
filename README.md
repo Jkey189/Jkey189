@@ -12,11 +12,13 @@
 ---
 
 
-[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode,visualstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,cmake,react,git,qt)](https://skillicons.dev)
 ---
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode,visualstudio,blender,obsidian,figma)](https://skillicons.dev)
 ---
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,arch)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=github,discord,gmail)](https://skillicons.dev)
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jkey189)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Jkey_0)  
 
