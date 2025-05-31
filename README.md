@@ -12,7 +12,7 @@
 ---
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,cmake,react,git,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,cmake,git,qt)](https://skillicons.dev)
 ---
 [![My Skills](https://skillicons.dev/icons?i=clion,pycharm,webstorm,vscode,visualstudio,blender,obsidian,figma)](https://skillicons.dev)
 ---
